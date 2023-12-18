@@ -173,6 +173,15 @@ main {
     color: #fafafa;
 }
 
+/* Gallery page */
+    #photos img {
+        width: 100%;
+    }
+
+    #photos {
+        
+    }
+
 /* Footer */
 
 #social-networks {
