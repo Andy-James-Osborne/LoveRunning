@@ -79,7 +79,7 @@ nav {
 }
 
 .nav-toggle-label {
-    display: 2rem;
+    font-size: 2rem;
 }
 
 main {
@@ -126,7 +126,7 @@ main {
 }
 
 #benefits hr {
-    border-top: 1 px solid #3a3a3a;
+    border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
 
@@ -218,7 +218,7 @@ main {
         margin-top: 5px;
         margin-bottom: 20px;
         padding: 0 5px;
-        border: 1px soild #fafafa;
+        border: 1px solid #fafafa;
         border-radius: 2px;
     }
 
